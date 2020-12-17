@@ -26,6 +26,10 @@ To Test :
 
 Gradle test will run all the junit test cases.
 
+Junit Test reports can be accessed from the following folder :
+
+    build/reports/tests/test/index.html
+
 Sample Junit test reports : 
 ![img.png](img.png)
 
