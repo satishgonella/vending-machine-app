@@ -11,7 +11,7 @@ This is a test program to simulate Vending Machine application.
 
 To build:
 
-    $ gradle build
+    $ ./gradlew build
 
 The following are implemented as part of the test application :
 1.    Accepts coins of 1,5,10,25 Cents i.e. penny, nickel, dime, and quarter.
@@ -22,7 +22,7 @@ The following are implemented as part of the test application :
 
 To Test :
 
-    $ gradle test
+    $ ./gradlew test
 
 Gradle test will run all the junit test cases.
 
